@@ -1,8 +1,32 @@
-# 🎧 Spotify Now Playing Overlay
+<table>
+  <tr>
+    <td width="65%" valign="middle" align="left" style="border: none; padding: 20px;">
 
+<div align="center">
+  <h1>🎧 Spotify Now Playing Overlay</h1>
+
+
+<p>
 A lightweight and visually polished Spotify "Now Playing" overlay designed for OBS.
+</p>
 
+<p>
 It displays real-time track information including album cover, title, artist, and playback progress with smooth animations and state transitions.
+</p>
+</div>
+<div align="center">
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
+  <img alt="Streamlabs" src="https://img.shields.io/badge/Streamlabs-80F5D2?style=for-the-badge&logo=streamlabs&logoColor=0B0F14">
+</div>
+
+  </td>
+
+  <td width="35%" align="center" valign="middle" style="border: none; padding: 20px;">
+    <img src="docs/preview.png" alt="Overlay preview" width="260"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
