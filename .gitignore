@@ -1,3 +1,11 @@
+node_modules/
+.env
+.tokens.json
+certs/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
 # Logs
 logs
 *.log
